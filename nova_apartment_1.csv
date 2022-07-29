@@ -1,0 +1,16 @@
+unit, name, date, zip_code, sqft, bedroom, bathroom, price, is_luxury, has_den, has_balcony, has_bathtub, double_sink
+200, Hanover Tyson, 07/29/2022, 22102, 794, 1, 1, 2321, y, n, n, y, n
+100, Hanover Tyson, 07/29/2022, 22102, 794, 1, 1, 2367, y, n, n, y, n
+107, Hanover Tyson, 07/29/2022, 22102, 794, 1, 1, 2367, y, n, n, y, n
+202, Hanover Tyson, 07/29/2022, 22102, 735, 1, 1, 2335, y, n, n, y, n
+102, Hanover Tyson, 07/29/2022, 22102, 735, 1, 1, 2381, y, n, n, y, n
+105, Hanover Tyson, 07/29/2022, 22102, 735, 1, 1, 2381, y, n, n, y, n
+408, Hanover Tyson, 07/29/2022, 22102, 835, 1, 1, 2584, y, n, y, y, y
+434, Hanover Tyson, 07/29/2022, 22102, 835, 1, 1, 2584, y, n, y, y, y
+566, Hanover Tyson, 07/29/2022, 22102, 835, 1, 1, 2644, y, n, y, y, y
+166, Hanover Tyson, 07/29/2022, 22102, 835, 1, 1, 2649, y, n, y, y, y
+508, Hanover Tyson, 07/29/2022, 22102, 835, 1, 1, 2644, y, n, y, y, y
+274, Hanover Tyson, 07/29/2022, 22102, 799, 1, 1, 2598, y, n, n, y, y
+474, Hanover Tyson, 07/29/2022, 22102, 799, 1, 1, 2644, y, n, n, y, y
+636, Hanover Tyson, 07/29/2022, 22102, 799, 1, 1, 2676, y, n, n, y, y
+568, Hanover Tyson, 07/29/2022, 22102, 799, 1, 1, 2727, y, n, n, y, y
