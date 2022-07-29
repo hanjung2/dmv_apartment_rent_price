@@ -29,5 +29,3 @@ unit, name, constructed_year, date, zip_code, sqft, bedroom, bathroom, price, is
 3103, Lumen, 2019, 07/29/2022, 22102, 1027, 2, 2, 4012, y, n, n, y, n, 32
 2803, Lumen, 2019, 07/29/2022, 22102, 1027, 2, 2, 3657, y, n, n, y, n, 32
 2203, Lumen, 2019, 07/29/2022, 22102, 1027, 2, 2, 3547, y, n, n, y, n, 32
-  
-
