@@ -29,3 +29,7 @@ unit, name, constructed_year, date, zip_code, sqft, bedroom, bathroom, price, ha
 3103, Lumen, 2019, 07/29/2022, 22102, 1027, 2, 2, 4012, n, n, y, n, 32
 2803, Lumen, 2019, 07/29/2022, 22102, 1027, 2, 2, 3657, n, n, y, n, 32
 2203, Lumen, 2019, 07/29/2022, 22102, 1027, 2, 2, 3547, n, n, y, n, 32
+7414-2, The Commons of McLean, 1968, 07/29/2022, 22102, 815, 1, 1, 2035, n, y, y, n, 3
+7430-5, The Commons of McLean, 1968, 07/29/2022, 22102, 1100, 2, 2, 2540, n, y, y, n, 3
+7408-5, The Commons of McLean, 1968, 07/29/2022, 22102, 1100, 2, 2, 2440, n, y, y, n, 3
+7422-4, The Commons of McLean, 1968, 07/29/2022, 22102, 1100, 2, 2, 2470, n, y, y, n, 3
