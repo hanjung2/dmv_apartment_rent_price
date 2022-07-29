@@ -1,4 +1,4 @@
-unit, name, date, constructed_year, zip_code, sqft, bedroom, bathroom, price, is_luxury, has_den, has_balcony, has_bathtub, double_sink
+unit, name, constructed_year, date, zip_code, sqft, bedroom, bathroom, price, is_luxury, has_den, has_balcony, has_bathtub, double_sink
 200, Hanover Tyson, 2022, 07/29/2022, 22102, 794, 1, 1, 2321, y, n, n, y, n
 100, Hanover Tyson, 2022, 07/29/2022, 22102, 794, 1, 1, 2367, y, n, n, y, n
 107, Hanover Tyson, 2022, 07/29/2022, 22102, 794, 1, 1, 2367, y, n, n, y, n
