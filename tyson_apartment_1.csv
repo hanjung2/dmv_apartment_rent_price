@@ -35,4 +35,6 @@ unit, name, constructed_year, date, zip_code, sqft, bedroom, bathroom, price, ha
 7422-4, The Commons of McLean, 1968, 07/29/2022, 22102, 1100, 2, 2, 2470, n, y, y, n, 3
 1205, Rise and Bolden, 2019, 07/29/2022, 22102, 1305, 2, 2, 4080, y, n, y, y, 34
 1015, Rise and Bolden, 2019, 07/29/2022, 22102, 1114, 2, 2, 3714, n, y, y, n, 34
+, Rise and Bolden, 2019, 07/30/2022, 22102, 1350, 2, 2, 4445, y, n, y, y, 34
+, Rise and Bolden, 2019, 07/30/2022, 22102, 648, 1, 1, 2307, n, n, y, y, 34
 
